@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on ELTE/D-lab</title>
+    <link>https://dlab-elte.github.io/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on ELTE/D-lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 ELTE D-Lab</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How Much Evidence is in a Significant Result? A Bayes Factor Analysis of 287,424 Psychological Findings.</title>
+      <link>https://dlab-elte.github.io/talk/toronto/</link>
+      <pubDate>Sat, 11 Nov 2017 08:40:00 +0000</pubDate>
+      
+      <guid>https://dlab-elte.github.io/talk/toronto/</guid>
+      <description>
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Customary statistical
+methods in psychology do not communicate the degree to
+which the collected data serve as evidence for the experimental
+hypothesis. In order to estimate the strength of evidence in
+significant psychological results, we calculated Bayes factors
+for 287,424 findings of 35,515 articles published in 293
+psychological journals between 1985 and 2016. Overall, 55%
+of all analyzed results were found to provide strong evidence
+(Bayes factor (BF) &amp;gt;10) for the alternative hypothesis, while
+more than half of the remaining results do not pass the level
+of the anecdotal evidence (BF=3). The results estimate that at
+least 82% of all published psychological articles contain one or
+more significant results which do not pass BF=10. This analysis
+highlights that due to the threshold of acceptance having been
+set too low for psychological findings, a substantial proportion
+of the published effects have weak evidential support.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
