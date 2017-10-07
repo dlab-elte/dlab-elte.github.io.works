@@ -2,7 +2,7 @@
 abstract = "Preregistration is a procedure to promote research transparency. It is assumed that studies which publicly disclose their study design, procedure analysis technique and decision criteria prior their data collection will be less likely to use questionable research practices. In general, is also assumed that these studies will reach higher standards in their publication. To assess this claim, we compare preregistered and non-preregistered studies along different descriptive features."
 abstract_short = "Our goal is to assess the impact of introduction of preregistrations by comparing preregistered and non-preregistered studies along different descriptive features."
 #authors = []
-date = "None"
+date = "1996-06-28"
 image_preview = ""
 math = true
 #publication_types = ["1"]

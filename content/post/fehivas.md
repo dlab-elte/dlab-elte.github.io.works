@@ -23,6 +23,7 @@ A kutatáshoz csatlakozó diák egy dinamikus kutatócsapat tagjává válhat. A
 - Előnyt jelentenek programozási tapasztalatok (R, php, Java Script, Python)
 - Logikus gondolkodás
 - Jókedv
+
 ## __A jelentkezés módja__
 A kapcsolattartónak írt maximum 1 oldalas leírás arról, hogy:
 

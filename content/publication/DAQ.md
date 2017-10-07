@@ -2,7 +2,7 @@
 abstract = "The aim of this project is to develop a measurement tool to assess people's propensity to commit mistakes in everyday life. Mistakes are different from errors as they are not just disadvantageous, but the person can also be responsible for them. Unlike the tests of decision biases, this project does not concentrate on the violations or normative rules, but those events that matter for the people, those that they see as mistakes. As a result of this project, we hope to be able to provide a new tool which can assess (a) the frequency with which a person does things that are regarded as mistakes; and (b) the kind of mistakes that are typical of a given person."
 abstract_short = "The aim of this project is to develop a measurement tool to assess people's propensity to commit mistakes in everyday life."
 #authors = []
-date = "None"
+date = "1996-06-28"
 image_preview = ""
 math = true
 #publication_types = ["1"]

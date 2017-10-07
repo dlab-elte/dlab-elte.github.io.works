@@ -2,7 +2,7 @@
 abstract = "Our project aims to implement a methodology that improves the credibility and acceptability of experimental findings by"
 abstract_short = "A fully transparent pre-registered replication study of precognitive detection of reinforcement using an expert consensus design"
 #authors = []
-date = "None"
+date = "1996-06-28"
 image_preview = ""
 math = true
 #publication_types = ["1"]
