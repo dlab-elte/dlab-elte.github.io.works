@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on ELTE/D-lab</title>
+    <link>https://dlab-elte.github.io/publication/</link>
+    <description>Recent content in Publications on ELTE/D-lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 ELTE D-Lab</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The cognitive reflection test revisited: exploring the ways individuals solve the test</title>
+      <link>https://dlab-elte.github.io/publication/cog_refl/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlab-elte.github.io/publication/cog_refl/</guid>
+      <description>&lt;p&gt;Authors: Barnabas Szaszi, Szollosi Aba, Palfi Bence, Aczel Balazs&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Assessing the benefits of study preregistration</title>
+      <link>https://dlab-elte.github.io/publication/prereg/</link>
+      <pubDate>Fri, 28 Jun 1996 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlab-elte.github.io/publication/prereg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decision Attitude Questionnaire</title>
+      <link>https://dlab-elte.github.io/publication/daq/</link>
+      <pubDate>Fri, 28 Jun 1996 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlab-elte.github.io/publication/daq/</guid>
+      <description>&lt;p&gt;In this project, Balazs Aczel is supported by the New National Excellence Program.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Economic Inequality, Poverty, and Decision-making</title>
+      <link>https://dlab-elte.github.io/publication/inequality_decision/</link>
+      <pubDate>Fri, 28 Jun 1996 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlab-elte.github.io/publication/inequality_decision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Mechanisms of Cognitive Control</title>
+      <link>https://dlab-elte.github.io/publication/cognitive_control/</link>
+      <pubDate>Fri, 28 Jun 1996 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlab-elte.github.io/publication/cognitive_control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transparent Psi Project</title>
+      <link>https://dlab-elte.github.io/publication/tpp/</link>
+      <pubDate>Fri, 28 Jun 1996 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlab-elte.github.io/publication/tpp/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;using expert consensus design to derive the final pre-registered study protocol&lt;/li&gt;
+&lt;li&gt;and eliminating the possibility for Questionable Research Practices (QRPs) through full transparency achieved via an automated real-time data publication pipeline&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Further details can be found at the &lt;a href=&#34;https://osf.io/jk2zf/&#34; target=&#34;_blank&#34;&gt;osf&lt;/a&gt; page of the project.&lt;/p&gt;
+
+&lt;p&gt;In collaboration with &lt;a href=&#34;http://www.lunduniversity.lu.se/lucat/user/ce71a819109fef7a47015b9bb83bf8c5&#34; target=&#34;_blank&#34;&gt;Zoltan Kekecs&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

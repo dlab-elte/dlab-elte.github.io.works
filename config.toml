@@ -21,7 +21,7 @@ defaultContentLanguageInSubdir = false
 [params]
   name = "Decision Laboratory"
   role = "Methodology and decision lab"
-  organization = "Department of Affective Psychology, Institute of Psychology, ELTE Eorvos Lorand University, Budapest, Hungary"
+  organization = "Department of Affective Psychology, Institute of Psychology, ELTE Eotvos Lorand University, Budapest, Hungary"
   #organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "kisdio.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.

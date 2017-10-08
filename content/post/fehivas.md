@@ -15,8 +15,12 @@ summary = "Laborunk felvételt hirdet kutatói asszisztens pozícióra."
 
 ## __Amit a laborban csinálunk__
 Az emberi döntéshozás és a pszichológia módszertan kérdéseit vizsgáljuk. Sokat olvasunk, elemzéseket végzünk, azokhoz kódokat írunk. Legtöbb projektünket nemzetközi együttműködésben végezzük ausztrál, angol, amerikai, francia és német egyetemek kutatóival. Fontosnak tartjuk, hogy folyamatosan képződjünk és világszinten is kiemelkedő eredményeket érjünk el. A laborban a munka angol nyelven folyik.
+
+[Itt] találjátok a projektjeinket.
+
 ## __Amit kínálunk__
 A kutatáshoz csatlakozó diák egy dinamikus kutatócsapat tagjává válhat. A korábbi tagok a következő karriertámogató előnyökre tettek szert: tanulmányi, kutatási és utazási ösztöndíjak, nemzetközi konferencialátogatások (pl. London, Amsterdam, San Francisco, Chicago), szerzőség nemzetközi publikációkban, külföldi nyári egyetemek, nemzetközi doktori iskolákba (Sydney, Párizs, Sussex) és ösztöndíjprogramokra (New York) sikeres bekerülés stb. Az együttműködésben résztvevő karrierfejlődéséhez szükséges minden területen igyekszünk támogatást adni.
+
 ## __Amit várunk__
 - Kitartás és elszántság a kemény munkához
 - Elvárás az angol nyelv problémamentes használata
@@ -52,6 +56,6 @@ _"Harmadévesként az általános pszichológia műhelymunkám okán kerültem k
 ## _Szászi Barnabás_
 _"Három éve csatlakoztam a laborhoz, és ez egy jó döntés volt a számomra. Hogy miért? Szabad körülmények között dolgozhatom, azon, amit csinálni szeretek, és minden segítséget megkapok a fejlődéshez szakmai és személyes szinten is, időközben megjelent több, mint 10 publikációm, jártam 10+ nemzetözi konferencián, egy évet kutattam NY-ban a Columbia egyetemen, megházasodtam (bár ehhez nincs sok köze a labornak, de legalább nem akadályozták meg), híztam 3 kilót (ehhez se), megtanultam R-ban programozni (ez valahol menő) és angolul is már csak majdnem annyira írok helytelenül, mint magyarul."_
 
-
+[Itt]: https://dlab-elte.github.io/#projects
 
 
